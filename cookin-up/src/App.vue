@@ -4,10 +4,4 @@ import Banner from './components/Banner.vue';
 
 <template>
   <Banner/>
-  
 </template>
-
-<style scoped>
-
-</style>
-
